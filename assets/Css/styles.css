@@ -1,0 +1,26 @@
+.det{
+    width: 600px;
+    height: 200px;
+    
+}
+#des {
+    width: 40%;
+  
+}
+#feat {
+    display: flex;
+    padding-bottom: 50px;
+}
+#feat> .air1 {
+    padding-right: 100px;
+}
+#feat> .air2 {
+    padding-right: 100px;
+}
+ul li::marker{
+    content: '✔';
+    color: #ffa12f;
+}
+.listin{
+    display: flex;
+}
